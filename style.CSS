@@ -12,7 +12,7 @@ div {
 }
 
 .logo {
-    width: 250px;
+    width: 200px;
     float: left;
     color: white;
     font-size: 2.5rem;
@@ -79,13 +79,23 @@ div {
 }
 
 .about {
-    float: left;
-    width: 720;
-    height: 215px;
+    width: 428;
+    height: 150px;
     text-decoration-color: white;
     font-family: sans-serif;
+    float: left;
+    padding: 10px 1px 1px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px
     
 }
+
+.h1 {
+    font-family: serif;
+    font-weight: bolder;
+}
+    
+
 
 .container_2 {
     background-color:#ed0eb6;
@@ -100,14 +110,14 @@ div {
 
 .nav_2{
     background-color:#96afac;
-    float: left;
+    float: left;    
     width: 200px;
     height: 600px;
     padding-top: 10px;
 }
 
 .nav_2 div {
-    border-bottom: 1px solid #D4B364;
+    border-bottom: 1px solid white;
     display: block;
     font-family: sans-serif;
     padding: 5px 5px 5px 5px;
