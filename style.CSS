@@ -3,7 +3,6 @@
 
 body {
     background-color: #441E13;
-    font-family: fantasy;
     color: white;
 }
 
@@ -82,7 +81,6 @@ div {
     width: 428;
     height: 150px;
     text-decoration-color: white;
-    font-family: sans-serif;
     float: left;
     padding: 10px 1px 1px 30px;
     margin-top: 4px;
@@ -93,10 +91,12 @@ div {
 .h1 {
     font-size: 2.5rem;
     font-weight: bold;
-    
      
 }
-    
+
+.p {
+    font-family: sans-serif;
+}
 
 .container_2 {
     background-color:#dbd8c5;
