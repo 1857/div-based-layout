@@ -3,8 +3,8 @@
 
 body {
     background-color: #441E13;
-    
-    color: white
+    font-family: fantasy;
+    color: white;
 }
 
 div {
@@ -85,20 +85,21 @@ div {
     font-family: sans-serif;
     float: left;
     padding: 10px 1px 1px 30px;
-    margin-top: 20px;
+    margin-top: 4px;
     margin-bottom: 20px
     
 }
 
 .h1 {
-    font-family: serif;
-    font-weight: bolder;
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+     
 }
     
 
-
 .container_2 {
-    background-color:#ed0eb6;
+    background-color:#dbd8c5;
      margin: auto;
      width: 920px;
      margin-left: auto;
@@ -112,7 +113,7 @@ div {
     background-color:#96afac;
     float: left;    
     width: 200px;
-    height: 600px;
+    height: 590px;
     padding-top: 10px;
 }
 
@@ -129,9 +130,16 @@ div {
 
 
 .how {
-    width: 720px;
-    height: 600px;
+    width: 600px;
+    height: 500px;
     background-color:#dbd8c5;
+    font-family: sans-serif;
+    color: black;
     float: left;
-    padding-top: 10px;
+    padding: 1px 1px 1px 30px;
+    margin-bottom: 20px
+}
+
+.h2 {
+    color: #778899;
 }
